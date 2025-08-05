@@ -6,6 +6,6 @@ public static void main(string[]){
 <br>
 system.out.println("hello world")
 <br>
-    <pre>      }</pre>  
+}  
 <br>
 }
